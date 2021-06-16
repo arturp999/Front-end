@@ -1,0 +1,5 @@
+APIS traabalhar com JSON
+
+Projecto:
+
+vue.js ver na net 27/02/2020
